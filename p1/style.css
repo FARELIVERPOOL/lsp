@@ -1,0 +1,64 @@
+.home{
+    margin: auto;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+}
+.home img{
+    width: 100px;
+    height: 400px;
+}
+.gambar{
+    width: 60%;
+    margin: auto;
+}
+.vm {
+    width: 80%;
+}
+.judul{
+    padding-top: 20px;
+}
+.judul .vm{
+    text-align: justify;
+}
+.ka i{
+    font-size: 30px;
+}
+.ka a {
+    color: black;
+    margin: 10px 0 0 10px;
+}
+.ka i p{
+    font-size: 15px;
+}
+.card-text{
+    height: 200px;
+   overflow: scroll;
+}
+.p-3{
+    text-align: justify;
+}
+.smbtn{
+    background-image: url(img/smbtn.jpg);
+    background-size: cover;
+}
+.counterr{
+
+    height: 200px;
+    color: rgb(0, 0, 0);
+  background-color: rgb(209, 213, 214);
+
+  
+}
+.pe p{
+    font-weight: 800;
+    font-size: 25px;
+    
+}
+.visi{
+    background-image: url(img/bgg.jpg);
+    background-size: cover;
+}
+.j{
+    background-image: url(img/jjj.jpg);
+    background-size: cover;
+}
